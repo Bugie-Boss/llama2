@@ -4,3 +4,5 @@ backgroundColor="#FFFFFF"
 secondaryBackgroundColor="#F0F2F6"
 textColor="#262730"
 font="sans serif"
+[secrets]
+REPLICATE_API_TOKEN = "your_api_token_here"
